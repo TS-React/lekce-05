@@ -51,6 +51,7 @@ Tento problém můžeme obejít, když funkci nadefinujeme pomocí slova `functi
 const getFirstItem = <T,>(items: T[]): T => items[0];
 ```
 
+
 ---
 
-Pokračuj s lektorem na → [Utility typy](utility-typy.md)
+Pokračuj samostatně na cvičení → [Cvičení 2: Generické typy](cviceni-2.md)
