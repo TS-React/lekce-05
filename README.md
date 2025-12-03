@@ -48,4 +48,4 @@ type Flower = {
 
 ---
 
-Pokračuj s lektorem na → [Operátor keyof](keyof.md)
+Pokračuj s lektorem na → [Operátor keyof](operator-keyof.md)
