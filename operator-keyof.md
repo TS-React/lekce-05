@@ -28,4 +28,4 @@ function changeFontWeight(weight: FontWeights): string {
 
 ---
 
-Pokračuj samostatně na cvičení → [Cvičení 1: Literal types a operátor keyof](cviceni-1.md)
+Pokračuj samostatně na cvičení → [Cvičení: Literal types a operátor keyof](cviceni.md)
